@@ -5,7 +5,7 @@
   - kevensen.oc
   - kevensen.oc-project-creator
   vars:
-    project_name: {{ dialog_option_0_project_name }}
-    project_display_name: {{ dialog_option_0_project_pretty_name }}
-    project_description: {{ dialog_option_0_project_description }}
-    user_name: {{ $evm['user'].name }}
+    project_name: test
+    project_display_name: test
+    project_description: test
+    user_name: kevensen
