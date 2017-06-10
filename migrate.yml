@@ -1,0 +1,8 @@
+---
+# file: migrate.yml
+- hosts: oc
+  roles:
+  - kevensen.oc
+  - kevensen.oc-project-migrator
+  vars:
+    ansible_become: true
