@@ -1,6 +1,6 @@
 ---
 # file: oc-create-project.yml
-- hosts: oc
+- hosts: oc1
   roles:
   - kevensen.oc
   - kevensen.oc-project-creator

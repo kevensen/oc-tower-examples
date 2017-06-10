@@ -1,6 +1,6 @@
 ---
 # file: migrate.yml
-- hosts: oc
+- hosts: oc2
   roles:
   - kevensen.oc
   - kevensen.oc-project-migrator
