@@ -1,1 +1,7 @@
 oc_inventory
+*-no-tower.yml
+*.retry
+group_vars/
+kevensen.*
+.DS_Store
+oc_local
