@@ -4,3 +4,6 @@
 - src: https://github.com/kevensen/oc-project-migrator.git
   version: master
   name: kevensen.oc-project-migrator
+- src: https://github.com/kevensen/oc.git
+  version: master
+  name: kevensen.oc
