@@ -2,6 +2,7 @@ oc_inventory
 *-no-tower.yml
 *.retry
 group_vars/
+host_vars/
 kevensen.*
 .DS_Store
 oc_local
