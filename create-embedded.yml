@@ -1,0 +1,9 @@
+---
+# file: create.yml
+- hosts: all
+  roles:
+  - kevensen.oc
+  - kevensen.oc-project-creator
+  vars:
+    ansible_become: true
+    
