@@ -1,9 +1,9 @@
 - src: https://github.com/kevensen/oc-project-creator.git
-  version: master
+  version: v0.1
   name: kevensen.oc-project-creator
 - src: https://github.com/kevensen/oc-project-migrator.git
-  version: master
+  version: v0.1
   name: kevensen.oc-project-migrator
 - src: https://github.com/kevensen/oc.git
-  version: master
+  version: v0.1
   name: kevensen.oc
