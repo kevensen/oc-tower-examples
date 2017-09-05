@@ -5,5 +5,5 @@
   version: v0.1
   name: kevensen.oc-project-migrator
 - src: https://github.com/kevensen/oc.git
-  version: v0.1
+  version: v0.2
   name: kevensen.oc
