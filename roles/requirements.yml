@@ -1,5 +1,5 @@
 - src: https://github.com/kevensen/oc-project-creator.git
-  version: v0.1
+  version: v0.2
   name: kevensen.oc-project-creator
 - src: https://github.com/kevensen/oc-project-migrator.git
   version: v0.1
